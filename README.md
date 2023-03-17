@@ -22,3 +22,5 @@ Which includes Data Types & Dimensions,Statistical summary,Encoding the target v
        4.2 AdaBoost
        4.3 XGBM 
 5. Model Comparison
+
+### For better visual you can also visit this link:-https://colab.research.google.com/drive/1KDp3tpbXdwHIbG0HqscBqHiNCb3LD36J?usp=sharing
