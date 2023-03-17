@@ -15,6 +15,7 @@ Table of contents
 1. Importing Packages
 2. Reading Data
 3. Understanding and preparing data
+
 Which includes Data Types & Dimensions,Statistical summary,Encoding the target variable,Treatment of Uneven or missing data,EDA,Correlation and also feature selection.
        
 4. Ensemble Learning Techniques
