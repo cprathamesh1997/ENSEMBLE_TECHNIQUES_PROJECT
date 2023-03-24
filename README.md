@@ -7,8 +7,11 @@ Breast cancer represents one of the diseases that make a high number of deaths e
 Problem Statement:
 
 This project aims to classify whether a patient has breast cancer or not based on the details of cell nuclei taken from breast mass using ensembling techniques like 'Bagging meta-estimator', 'AdaBoost', and 'XGBoost'. The dataset consists of several predictor variables and one target variable, Diagnosis, which has values 'Benign' and 'Malignant'.
+
 Benign: These tumors are not cancerous. They do not invade nearby tissue or spread to other parts of the body. If a doctor removes them, they do not generally return.
+
 Malignant: Malignant tumors are cancerous. The cells can grow and spread to other parts of the body.
+
 Before building the model, necessary exploratory data analysis is performed to understand the data and identify any patterns or trends that could be useful for modeling.The performance of the model is evaluated based on performance metrics other than model accuracy.
 
 Table of contents
